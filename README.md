@@ -1,5 +1,6 @@
 # Grad-CAM-Visualization-ResNet18-CIFAR-10-Ship-Class-
 Image classification on CIFAR-10 using ResNet50 with complete PyTorch pipeline: data loading, training, validation, confusion matrix, accuracy metrics, and Grad-CAM visualization for model interpretability. Demonstrates reliable performance and explainable deep learning.
+
 🚢 CIFAR-10 Classification with ResNet50 (PyTorch)
 
 This project implements a custom ResNet50 deep learning model from scratch in PyTorch and trains it on the CIFAR-10 dataset, achieving strong image-classification performance across 10 categories (airplane, dog, ship, etc.).
@@ -11,6 +12,7 @@ Full PyTorch training pipeline
 Custom implementation of ResNet50 architecture
 
 CIFAR-10 training with:
+
 ✔ Data augmentation
 ✔ Cross-entropy loss
 ✔ Adam optimizer
