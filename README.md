@@ -30,14 +30,23 @@ Clean and modular code structure
  ├── gradcam.py          # Grad-CAM visualization
  ├── requirements.txt
  └── README.md
+ 
 🚀 How to Run
+
 1️⃣ Install Dependencies
+
 pip install -r requirements.txt
+
 2️⃣ Train the Model
+
 python train.py
+
 3️⃣ Evaluate
+
 python evaluate.py
+
 4️⃣ Generate Grad-CAM Heatmaps
+
 python gradcam.py
 
 🧠 Results
